@@ -6,7 +6,7 @@ https://github.com/RezzaMir/Input-Output-Functionaliy/blob/main/Input%20n%20Outp
 
 This code runs on Arduino IDE
 
-The purpose is to examine the basic functionality of the Arduino microcontroller board and learning how to setup inputs and outputs and finding interrupts. This will utilize 3 port pins to drive 6 LEDs through output combinations of ones and zeroes while setting others as inputs (to simulate high impedance or disconnect the output) to drive one LED at a time.
+The purpose is to examine the basic functionality of the Arduino microcontroller board and settting up inputs and outputs and finding interrupts. This will utilize 3 port pins to drive 6 LEDs through output combinations of ones and zeroes while setting others as inputs (to simulate high impedance or disconnect the output) to drive one LED at a time.
 
 ![Screenshot (1047) - Copy](https://user-images.githubusercontent.com/102126445/160237807-6ed635b9-9784-489c-908d-0f5cf8779e90.png)
 
