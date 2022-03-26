@@ -1,4 +1,5 @@
-# Input-Output-Functionaliy
+# Input/Output Functionaliy
+
 I/O Functionality
 
 The purpose is to examine the basic functionality of the Arduino microcontroller board and learning how to setup inputs and outputs and learn about interrupts.  We will utilize 3 port pins to drive 6 LEDs through output combinations of ones and zeroes while setting others as inputs (to simulate high impedance or disconnect the output) to drive one LED at a time.
